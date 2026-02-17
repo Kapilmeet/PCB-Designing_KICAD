@@ -4177,7 +4177,7 @@
 	)
 	(text "DECOUPLING & FILTERING\n"
 		(exclude_from_sim no)
-		(at 195.834 22.86 0)
+		(at 243.84 49.784 0)
 		(effects
 			(font
 				(size 2 2)
@@ -7844,7 +7844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 130.5052 38.1 0)
 			(effects
 				(font
@@ -9567,7 +9567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 106.3752 38.1 0)
 			(effects
 				(font
@@ -9686,7 +9686,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b7decc90-d0a8-4ebc-a78c-fbff14696722")
 		(property "Reference" "Y2"
 			(at 99.06 153.67 0)
@@ -9694,10 +9693,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "8Mz"
-			(at 99.06 156.21 0)
+			(at 99.06 157.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
