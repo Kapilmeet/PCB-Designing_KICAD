@@ -7230,7 +7230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AS5600:SOIC8_AS5600_OSR"
+		(property "Footprint" "ul_AS5600L-ASOM:AS5600L-ASOM_AMS"
 			(at 49.53 81.28 0)
 			(effects
 				(font
